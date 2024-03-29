@@ -13,9 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--타이틀 부분-->
+<div align="center">
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+dding's+GitHub!👋)](https://git.io/typing-svg) 
 
 ![dding's GitHub stats](https://github-readme-stats.vercel.app/api?username=dding&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dding&layout=compact)
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  </a>
+  <a href="qkraudtp@naver.com">
+    <img
+      src="https://img.shields.io/badge/qkraudtp@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
+</div>
