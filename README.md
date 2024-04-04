@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![dding's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmse&show_icons=true&theme=shadow_green)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&langs_count=2&layout=compact)](https://github.com/parkmse/parkmse)
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
