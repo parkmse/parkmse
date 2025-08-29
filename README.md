@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 ![dding's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmse&show_icons=true&theme=shadow_green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&layout=compact&langs_count=6&theme=shadow_green&cache_seconds=1800&v=1)](https://github.com/parkmse/parkmse)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=shadow_green&cache_seconds=1800&v=2)](https://github.com/parkmse/parkmse)
+
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
