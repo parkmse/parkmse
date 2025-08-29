@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   </a>
-  <a href="qkraudtp@naver.com">
+  <a href="mailto:qkraudtp@naver.com">
     <img
       src="https://img.shields.io/badge/qkraudtp@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
