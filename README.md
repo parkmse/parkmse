@@ -18,9 +18,6 @@ I build software that runs on real hardware.
 
 <br/><br/>
 
-<!-- Stats (API) -->
-<img src="https://github-readme-stats.vercel.app/api?username=parkmse&show_icons=true&theme=shadow_green&hide_border=true&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=shadow_green&hide_border=true&cache_seconds=1800" height="165" />
 
 </div>
 
