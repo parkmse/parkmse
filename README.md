@@ -1,39 +1,87 @@
+# 👋 Myungse Park
 
-<!--
-**parkmse/parkmse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineer in Progress**  
+Linux-based System Integration | Real-Time Control | Hardware-Oriented Development  
 
-Here are some ideas to get you started:
+I design and build software that runs on real hardware.  
+Focused on C-based embedded systems, Linux board integration, and system-level architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--타이틀 부분-->
-<h3 align="center">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+dding's+GitHub!👋)](https://git.io/typing-svg) 
+## 🧠 Engineering Philosophy
 
-![dding's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmse&show_icons=true&theme=shadow_green)
+I believe embedded systems are not just about writing code,  
+but understanding how software interacts with hardware.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkmse&layout=compact&langs_count=6&hide=Jupyter%20Notebook&theme=shadow_green&cache_seconds=1800&v=2)](https://github.com/parkmse/parkmse)
+I focus on:
 
+- Deterministic system behavior  
+- Stable real-time processing  
+- Reliable inter-board communication  
+- Clean and modular system architecture  
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+---
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  </a>
-  <a href="mailto:qkraudtp@naver.com">
-    <img
-      src="https://img.shields.io/badge/qkraudtp@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
-  </a>
-</div>
+## 💡 Core Competencies
+
+- Embedded Linux system development  
+- Multi-threaded real-time processing  
+- Board-level debugging (UART / GDB)  
+- CAN & TCP/IP communication control  
+- Hardware ↔ Software integration  
+
+---
+
+## ⚙️ Technical Skills
+
+### 🔹 Programming Languages
+- C (Embedded firmware, low-level control)
+- C++ (System-level design)
+- Python (AI inference, automation, simulation)
+- MATLAB (Signal & system analysis)
+
+### 🔹 Embedded & OS
+- Embedded Linux (Yocto, Buildroot)
+- FreeRTOS
+- BSP understanding
+- GCC Cross Toolchain
+- Makefile-based build system
+
+### 🔹 Communication & Interfaces
+- CAN
+- TCP/IP Socket
+- UART
+- IPC
+
+### 🔹 Hardware & Analysis
+- PSpice simulation
+- Signal processing fundamentals
+- Oscilloscope-based debugging
+
+### 🔹 Tools
+- Git
+- Ubuntu Linux
+- GDB
+
+---
+
+## 🚗 Selected Embedded Projects
+
+### Autonomous Driving Multi-Board System
+- AI inference on embedded board
+- Ethernet-based inter-board communication
+- Real-time decision logic implementation
+- CAN-based vehicle control
+- Frame stability filtering using sliding window logic
+
+### Linux-based Board Application Deployment
+- Cross-compilation and deployment using Yocto
+- Board-level debugging and performance tuning
+- Multi-thread architecture for perception and control separation
+
+---
+
+## 📫 Contact
+
+Email: qkraudtp@naver.com  
+GitHub: https://github.com/parkmse
