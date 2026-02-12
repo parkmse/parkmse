@@ -1,14 +1,15 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Myungse Park (dding)
+
+🎓 B.S. in Electronic and Electrical Engineering  
+Chung-Ang University  
 
 **Embedded Systems / Linux / Real-Time & Board Integration**  
 I build software that runs on real hardware.
 
 <br/>
 
-<!-- Contact -->
 <a href="mailto:qkraudtp@naver.com">
   <img src="https://img.shields.io/badge/Email-qkraudtp%40naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -17,7 +18,6 @@ I build software that runs on real hardware.
 </a>
 
 <br/><br/>
-
 
 </div>
 
@@ -65,13 +65,7 @@ I build software that runs on real hardware.
 
 ---
 
-## 📌 Selected Work (Short)
-- **Multi-board system integration**: perception → decision → control flow 설계/연동
-- **Frame stability logic**: sliding window 기반 안정화/전송 조건 설계
-- **Board deployment workflow**: cross-compile → package → deploy → debug 루틴 구축
-
----
-
-## 📫 Contact
-- Email: **qkraudtp@naver.com**
-- GitHub: **https://github.com/parkmse**
+## 📌 Selected Work
+- Multi-board embedded system integration
+- Real-time decision logic implementation
+- Linux-based cross-compilation & board deployment
