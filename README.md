@@ -31,7 +31,7 @@ I build software that runs on real hardware.
 
 ---
 
-## 🧰 Tech Stack (Quick View)
+## 🧰 Tech Stack
 
 ### 🔹 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
